@@ -1,0 +1,71 @@
+*{
+    outline:none;
+}
+.container-transit{
+    background-color: #FFF;
+    margin-right: 10px;
+}
+.container-transit .page-header{
+    background-color: #4A92C4;
+    padding: 15px;
+}
+
+.container-transit .logo{
+    display: block;
+    width: 250px;
+    height:66px;
+    background: url('../images/logo2.png') no-repeat;
+    background-size: contain;
+}
+.container-transit .title{
+    padding: 0 15px 15px 20px;
+    text-align: center;
+}
+.container-transit .title p{
+}
+
+.container-transit .generator{
+    height: 300px;
+    padding: 15px;
+}
+.container-transit .generator input[type="button"]{
+    background-color: #DCBC0C;
+    color: #FFF;
+    border: none;
+    padding: 3px 15px;
+    font-size: 25px;
+    margin-top: -3px;
+    cursor: pointer;
+    font-weight: 200;
+}
+.container-transit .generator input[type="button"]:hover{
+    background-color: #588FB7;
+}
+.container-transit  .container-box{
+    float: left;
+    margin: 15px 20px;
+    width: 100%;
+    font-size: 20px;
+}
+.container-transit  .container-box .element{
+    left: 180px;
+    position: absolute;
+}
+.container-transit .generate-result .shortcode{
+    color: #4A92C4;
+}
+.container-transit .page-footer{
+    height: 40px;
+    background-color: #4A92C4;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.container-transit .page-footer a{
+    color: #FFF;
+    font-size: 16px;
+    text-decoration: none;
+}
+.container-transit .page-footer a:hover{
+    color: #CCC;
+}

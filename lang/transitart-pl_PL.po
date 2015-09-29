@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-07-13 10:40+0100\n"
+"PO-Revision-Date: 2015-07-13 10:41+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: /home/rdragon/www/transitart/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: wp-content/plugins/transitart\n"
+
+#: wp-content/plugins/transitart/html/settings.php:5
+msgid "Transitart plugin information"
+msgstr "Transitart informacje o pluginie"
+
+#: wp-content/plugins/transitart/html/settings.php:6
+msgid "How to use"
+msgstr "Jak używać"
+
+#: wp-content/plugins/transitart/html/settings.php:8
+msgid "Choise options from the generator."
+msgstr "Wybierz opcje z generatora"
+
+#: wp-content/plugins/transitart/html/settings.php:9
+msgid "Copy and paste to the template or post generated shortcode."
+msgstr "Skopiuj i wklej do szablonu lub wpisu wygenerowany shortcode ."
+
+#: wp-content/plugins/transitart/html/settings.php:14
+msgid "Demo city"
+msgstr "Miasto demo"
+
+#: wp-content/plugins/transitart/html/settings.php:27
+msgid "Type"
+msgstr "Rodzaj"
+
+#: wp-content/plugins/transitart/html/settings.php:29
+msgid "Timetables"
+msgstr "Rozkłady jazdy"
+
+#: wp-content/plugins/transitart/html/settings.php:30
+msgid "Journey planner with timetables"
+msgstr "Wyszukiwarka połączeń z rozkładami"
+
+#: wp-content/plugins/transitart/html/settings.php:34
+msgid "Language"
+msgstr "Język"
+
+#: wp-content/plugins/transitart/html/settings.php:41
+msgid "Generate"
+msgstr "Generuj"
+
+#: wp-content/plugins/transitart/html/settings.php:50
+msgid "Contact us to publish own timetables data"
+msgstr "Skontaktuj się z nami, aby zastosować własne rozkłady"
+
+#~ msgid "Thank you four e-mail adress. We will be in touch."
+#~ msgstr "Dziękujemy za Twój adres e-maila. Będziemy w kontakcie."
+
+#~ msgid "This e-mail is already registered."
+#~ msgstr "Ten adres e-mail został już zapisany."
+
+#~ msgid "Send"
+#~ msgstr "Wyślij"
+
+#~ msgid "Contact Emial List"
+#~ msgstr "Lista kontaktów mailowych"
+
+#~ msgid "List"
+#~ msgstr "Lista"
